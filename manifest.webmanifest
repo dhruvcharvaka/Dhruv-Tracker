@@ -1,0 +1,20 @@
+{
+  "id": "./",
+  "name": "Dayline — Your time, clearly",
+  "short_name": "Dayline",
+  "description": "Private, local daily plans, weekly targets, and calendar.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#f5f6f2",
+  "theme_color": "#176b60",
+  "icons": [
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMAAAADACAIAAADdvvtQAAAB8UlEQVR42u3cwbGCQBBFUZgyB/ZGxp4qd0bhzgCNxRxgwbzucyKQ5pY4/F+9bse+wFnDCBAQAkJACAgEhIAQEAICASEgBISAQEAICAEhIBAQAkJACAgBgYAQEAJCQCAgBISAEBAICAEhIAQEAkJACAgBISAQEAJCQAgIBISAEBACAgEhIASEgEBACAgBISAQEJc8Jv98v8+35415vl++gdRT/9qHCZpAwYDUkzKHYWoacgpDQAgIAUF+QCnv0Exj3m8gDaXMYZidCZT9DdS5oZRrX7dj96TAKQwBISAEBAJCQAgIAYGAEBACQkAgIASEgBAQCAgBcSP7gSZlP5B6Wly7/UAaqhiQelLmYD+QhpzCEBACQkBQICB7OYKmYT+Qeoo+wjRkP5CG6l+7/UA4hSEgBISAQEAICAEhIBAQAkJACAgEhIAQEAICASEgbmY/0Hn+7X+xH6jwx+seUMTt0ZD9QBoqF1DcLenckFMYAkJACAgBzSHuBV3nN4r2A6mn6CMs4sb4a4b9QOq5xH4gnMIQEAJCQCAgBISAEBAICAEhIAQEAkJACAgBgYAQEAJCQAgIBISAEBACAgEhIASEgEBACAgBISAQEAJCQAgIAYGAEBACQkAgIASEgBAQCAgBISAEBAJCQAgIAYGAEBACItUfl+hWC7CgPT0AAAAASUVORK5CYII=",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
